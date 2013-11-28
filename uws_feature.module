@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the uws_feature feature.
+ */
+
+include_once 'uws_feature.features.inc';
